@@ -5,7 +5,6 @@
 #include <limits>
 #include <cmath>
 #include <algorithm> // For std::sort
-#include <type_traits>
 #include <string>
 
 class StockPriceFinder {
